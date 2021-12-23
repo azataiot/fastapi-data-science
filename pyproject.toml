@@ -18,6 +18,7 @@ python-multipart = "^0.0.5"
 databases = {extras = ["sqlite"], version = "^0.5.3"}
 SQLAlchemy = "^1.4.28"
 alembic = "^1.7.5"
+tortoise-orm = "^0.18.0"
 
 [tool.poetry.dev-dependencies]
 
