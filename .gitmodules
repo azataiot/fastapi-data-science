@@ -1,0 +1,3 @@
+[submodule "relational"]
+	path = ch6-db-orm/fdsch6-relational
+	url = git@github.com:azataiot/fdsch6-relational.git
